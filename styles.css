@@ -19,10 +19,10 @@ body {
 }
 
 .card {
-  max-width: 375px;
+  max-width: 300px;
   margin: 2rem;
-  border-radius: 20px;
-  padding: 2rem;
+  border-radius: 15px;
+  padding: 1.5rem;
   background-color: hsl(0, 0%, 100%);
   box-shadow: 0 5px 10px 3px rgba(0, 0, 0, 0.05);
 
@@ -42,17 +42,17 @@ body {
 }
 
 .card-text {
-  padding: 2rem;
+  padding: 2rem 0.5rem;
 }
 
 .card-heading {
-  font-size: 2.6rem;
+  font-size: 2rem;
   color: hsl(218, 44%, 22%);
   margin-bottom: 1.6rem;
 }
 
 .card-description {
-  font-size: 1.8rem;
+  font-size: 1.6rem;
   font-weight: 400;
   color: hsl(220, 15%, 55%);
 }
